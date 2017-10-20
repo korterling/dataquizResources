@@ -1,0 +1,2 @@
+Insurance spending is defined as the ratio of direct gross premiums to GDP, which represents the relative importance of the insurance industry in the domestic economy. This indicator is expressed as a percentage of GDP.
+<br>Source: OECD (<a href='https://data.oecd.org/insurance/insurance-spending.htm' target='_blank'>https://data.oecd.org/insurance/insurance-spending.htm</a>)

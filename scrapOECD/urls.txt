@@ -1,0 +1,138 @@
+https://data.oecd.org/corporate/value-added-in-financial-corporations.htm
+https://data.oecd.org/corporate/value-added-in-non-financial-corporations.htm
+https://data.oecd.org/corporate/non-financial-corporations-debt-to-surplus-ratio.htm
+https://data.oecd.org/corporate/banking-sector-leverage.htm
+https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
+https://data.oecd.org/gdp/investment-gfcf.htm
+https://data.oecd.org/gdp/investment-by-asset.htm
+https://data.oecd.org/gdp/investment-by-sector.htm
+https://data.oecd.org/fdi/fdi-stocks.htm
+https://data.oecd.org/fdi/fdi-flows.htm
+https://data.oecd.org/trade/trade-in-goods-and-services.htm
+https://data.oecd.org/trade/domestic-value-added-in-gross-exports.htm
+https://data.oecd.org/trade/import-content-of-exports.htm#indicator-chart
+https://data.oecd.org/corporate/financial-corporations-debt-to-equity-ratio.htm
+https://data.oecd.org/corporate/banking-sector-leverage.htm
+
+# Households
+https://data.oecd.org/hha/household-disposable-income.htm
+https://data.oecd.org/hha/household-spending.htm#indicator-chart
+https://data.oecd.org/hha/housing.htm#indicator-chart
+https://data.oecd.org/hha/household-savings.htm#indicator-chart
+https://data.oecd.org/hha/household-debt.htm#indicator-chart
+https://data.oecd.org/hha/household-financial-assets.htm#indicator-chart
+https://data.oecd.org/hha/household-financial-transactions.htm#indicator-chart
+
+# Business Confidence Indices
+https://data.oecd.org/leadind/composite-leading-indicator-cli.htm
+https://data.oecd.org/leadind/business-confidence-index-bci.htm#indicator-chart
+https://data.oecd.org/leadind/consumer-confidence-index-cci.htm#indicator-chart
+
+# National Income
+https://data.oecd.org/natincome/gross-national-income.htm#indicator-chart
+https://data.oecd.org/natincome/net-lending-borrowing-by-sector.htm#indicator-chart
+https://data.oecd.org/natincome/saving-rate.htm#indicator-chart
+
+# Prices
+https://data.oecd.org/price/inflation-cpi.htm
+https://data.oecd.org/price/share-prices.htm#indicator-chart
+
+# Productivity
+https://data.oecd.org/lprdty/gdp-per-hour-worked.htm
+https://data.oecd.org/lprdty/labour-productivity-and-utilisation.htm#indicator-chart
+https://data.oecd.org/lprdty/labour-compensation-per-hour-worked.htm#indicator-chart
+https://data.oecd.org/lprdty/multifactor-productivity.htm#indicator-chart
+https://data.oecd.org/lprdty/unit-labour-costs.htm#indicator-chart
+
+# Energy
+https://data.oecd.org/energy/primary-energy-supply.htm#indicator-chart
+https://data.oecd.org/energy/electricity-generation.htm
+https://data.oecd.org/energy/renewable-energy.htm#indicator-chart
+https://data.oecd.org/energy/crude-oil-import-prices.htm#indicator-chart
+
+# Government
+https://data.oecd.org/gga/general-government-deficit.htm
+https://data.oecd.org/gga/general-government-revenue.htm#indicator-chart
+https://data.oecd.org/gga/general-government-spending.htm#indicator-chart
+https://data.oecd.org/gga/general-government-spending-by-destination.htm#indicator-chart
+https://data.oecd.org/gga/general-government-debt.htm#indicator-chart
+https://data.oecd.org/gga/general-government-financial-wealth.htm#indicator-chart
+https://data.oecd.org/gga/central-government-spending.htm#indicator-chart
+
+# Taxes
+https://data.oecd.org/tax/tax-revenue.htm
+https://data.oecd.org/tax/tax-on-personal-income.htm#indicator-chart
+https://data.oecd.org/tax/tax-on-corporate-profits.htm#indicator-chart
+https://data.oecd.org/tax/social-security-contributions.htm#indicator-chart
+https://data.oecd.org/tax/tax-on-property.htm#indicator-chart
+https://data.oecd.org/tax/tax-on-goods-and-services.htm#indicator-chart
+https://data.oecd.org/tax/tax-wedge.htm#indicator-chart
+
+# Wages
+https://data.oecd.org/earnwage/average-wages.htm
+https://data.oecd.org/earnwage/gender-wage-gap.htm#indicator-chart
+https://data.oecd.org/earnwage/wage-levels.htm#indicator-chart
+
+# Employment
+https://data.oecd.org/emp/employment-rate.htm
+https://data.oecd.org/emp/employment-rate-by-age-group.htm#indicator-chart
+https://data.oecd.org/emp/employment-by-education-level.htm#indicator-chart
+https://data.oecd.org/emp/employment-by-activity.htm#indicator-chart
+https://data.oecd.org/emp/part-time-employment-rate.htm#indicator-chart
+https://data.oecd.org/emp/temporary-employment.htm#indicator-chart
+https://data.oecd.org/emp/labour-force.htm#indicator-chart
+https://data.oecd.org/emp/hours-worked.htm#indicator-chart
+
+https://data.oecd.org/unemp/harmonised-unemployment-rate-hur.htm
+https://data.oecd.org/unemp/unemployment-rates-by-education-level.htm#indicator-chart
+https://data.oecd.org/unemp/long-term-unemployment-rate.htm#indicator-chart
+https://data.oecd.org/unemp/youth-unemployment-rate.htm#indicator-chart
+
+# Social Protection
+https://data.oecd.org/socialexp/social-spending.htm
+https://data.oecd.org/socialexp/pension-spending.htm#indicator-chart
+https://data.oecd.org/socialexp/public-unemployment-spending.htm#indicator-chart
+
+# Income Inequality
+https://data.oecd.org/inequality/income-inequality.htm
+https://data.oecd.org/inequality/poverty-rate.htm#indicator-chart
+https://data.oecd.org/inequality/poverty-gap.htm#indicator-chart
+
+# Insurance
+https://data.oecd.org/insurance/insurance-spending.htm
+https://data.oecd.org/insurance/gross-insurance-premiums.htm#indicator-chart
+https://data.oecd.org/insurance/national-insurance-market-share.htm#indicator-chart
+
+# Interest Rates
+https://data.oecd.org/interest/long-term-interest-rates.htm#indicator-chart
+https://data.oecd.org/interest/short-term-interest-rates.htm#indicator-chart
+
+# Environment
+https://data.oecd.org/air/air-and-ghg-emissions.htm
+https://data.oecd.org/forest/forest-resources.htm
+https://data.oecd.org/waste/municipal-waste.htm
+
+
+
+# Development
+https://data.oecd.org/oda/net-oda.htm
+
+# R & D
+https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm
+https://data.oecd.org/rd/researchers.htm#indicator-chart
+https://data.oecd.org/rd/triadic-patent-families.htm#indicator-chart
+
+# Healthcare
+https://data.oecd.org/healthres/health-spending.htm
+https://data.oecd.org/healthres/pharmaceutical-spending.htm#indicator-chart
+https://data.oecd.org/healthres/doctors.htm#indicator-chart
+https://data.oecd.org/healthres/nurses.htm#indicator-chart
+
+# Agriculture
+https://data.oecd.org/agrpolicy/agricultural-support.htm
+https://data.oecd.org/agrpolicy/producer-protection.htm#indicator-chart
+https://data.oecd.org/agrland/nutrient-balance.htm
+
+# Education
+https://data.oecd.org/eduresource/education-spending.htm
+https://data.oecd.org/eduresource/number-of-students.htm#indicator-chart

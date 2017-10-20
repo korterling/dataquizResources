@@ -1,0 +1,31 @@
+# Tables for simple user management
+
+dq:
+  descr: R quiz objects
+  table:
+    quiztype: VARCHAR(10)
+    gentype: VARCHAR(100)
+    dqhash: VARCHAR(255)
+    genhash: VARCHAR(255)
+    solution: VARCHAR(1024)
+    created: DATETIME
+  indexes:
+    - "CREATE INDEX dq1 on dq (gentype, quiztype)"
+    - "CREATE INDEX dq2 on dq (solution)"
+    - "CREATE UNIQUE INDEX dq3 on dq (dqhash)"
+    - "CREATE INDEX dq4 on dq (genhash)"
+
+plays:
+  descr: One entry each time a player plays a quiz
+  table:
+    userid: VARCHAR(255)
+    time: DATETIME
+    dqhash: VARCHAR(255)
+    genhash: VARCHAR(100)
+    points: INTEGER
+    negs: INTEGER
+  indexes:
+    - "CREATE INDEX plays1 on plays (userid)"
+    - "CREATE INDEX plays2 on plays (dqhash)"
+    - "CREATE INDEX plays2 on plays (genhash)"
+    - "CREATE INDEX plays3 on plays (time)"

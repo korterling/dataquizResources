@@ -1,0 +1,2 @@
+Tax on corporate profits is defined as taxes levied on the net profits (gross income minus allowable tax reliefs) of enterprises. It also covers taxes levied on the capital gains of enterprises. This indicator relates to government as a whole (all government levels) and is measured in percentage both of GDP and of total taxation.
+<br>Source: OECD (<a href='https://data.oecd.org/tax/tax-on-corporate-profits.htm#indicator-chart' target='_blank'>https://data.oecd.org/tax/tax-on-corporate-profits.htm#indicator-chart</a>)

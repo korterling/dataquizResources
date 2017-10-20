@@ -1,0 +1,2 @@
+Labour compensation per hour worked is defined as compensation of employees in national currency divided by total hours worked by employees. Compensation of employees is the sum of gross wages and salaries and employers' social security contributions. This indicator is measured in terms of annual growth rates and indices.
+<br>Source: OECD (<a href='https://data.oecd.org/lprdty/labour-compensation-per-hour-worked.htm#indicator-chart' target='_blank'>https://data.oecd.org/lprdty/labour-compensation-per-hour-worked.htm#indicator-chart</a>)

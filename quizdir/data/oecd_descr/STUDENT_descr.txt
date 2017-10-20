@@ -1,0 +1,2 @@
+Number of students is defined as the number of enrolments at a given level of education. This indicator is measured as an index, base year 2010, divided into primary and primary, secondary and post-secondary non-tertiary levels.
+<br>Source: OECD (<a href='https://data.oecd.org/eduresource/number-of-students.htm#indicator-chart' target='_blank'>https://data.oecd.org/eduresource/number-of-students.htm#indicator-chart</a>)

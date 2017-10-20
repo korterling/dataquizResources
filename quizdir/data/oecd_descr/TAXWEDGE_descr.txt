@@ -1,0 +1,2 @@
+Tax wedge is defined as the ratio between the amount of taxes paid by an average single worker (a single person at 100% of average earnings) without children and the corresponding total labour cost for the employer. The average tax wedge measures the extent to which tax on labour income discourages employment. This indicator is measured in percentage of labour cost.
+<br>Source: OECD (<a href='https://data.oecd.org/tax/tax-wedge.htm#indicator-chart' target='_blank'>https://data.oecd.org/tax/tax-wedge.htm#indicator-chart</a>)

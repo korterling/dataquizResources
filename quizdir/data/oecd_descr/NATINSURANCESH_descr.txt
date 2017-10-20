@@ -1,0 +1,2 @@
+National insurance market share is defined as a country's national insurance market compared with the OECD insurance market total. It measures the importance of the national insurance market as an index using the OECD insurance market total as base; OECD=100.
+<br>Source: OECD (<a href='https://data.oecd.org/insurance/national-insurance-market-share.htm#indicator-chart' target='_blank'>https://data.oecd.org/insurance/national-insurance-market-share.htm#indicator-chart</a>)

@@ -1,0 +1,2 @@
+Employment by industry is broken down by agriculture, construction, industry including construction, manufacturing and services activities. This indicator is seasonally adjusted and it is measured in thousands of people.
+<br>Source: OECD (<a href='https://data.oecd.org/emp/employment-by-activity.htm#indicator-chart' target='_blank'>https://data.oecd.org/emp/employment-by-activity.htm#indicator-chart</a>)

@@ -1,0 +1,2 @@
+The business confidence index (BCI) is based on enterprises' assessment of production, orders and stocks, as well as its current position and expectations for the immediate future. Opinions compared to a “normal” state are collected and the difference between positive and negative answers provides a qualitative index on economic conditions.
+<br>Source: OECD (<a href='https://data.oecd.org/leadind/business-confidence-index-bci.htm#indicator-chart' target='_blank'>https://data.oecd.org/leadind/business-confidence-index-bci.htm#indicator-chart</a>)

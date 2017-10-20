@@ -1,0 +1,2 @@
+Gross insurance premiums, defined as the total insurance premiums in the reporting country, are a major indicator of the importance of the insurance industry in the economy of the country. This indicator is shown in million USD.
+<br>Source: OECD (<a href='https://data.oecd.org/insurance/gross-insurance-premiums.htm#indicator-chart' target='_blank'>https://data.oecd.org/insurance/gross-insurance-premiums.htm#indicator-chart</a>)

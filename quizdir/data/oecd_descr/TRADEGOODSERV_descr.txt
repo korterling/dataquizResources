@@ -1,0 +1,2 @@
+Trade in goods and services is defined as change in ownership of material resources and services between one economy and another. The indicator comprises sales of goods and services as well as barter transactions or goods exchanged as part of gifts or grants between residents and non-residents. It is measured in million USD and percentage of GDP for net trade and also annual growth for exports and imports.
+<br>Source: OECD (<a href='https://data.oecd.org/trade/trade-in-goods-and-services.htm' target='_blank'>https://data.oecd.org/trade/trade-in-goods-and-services.htm</a>)

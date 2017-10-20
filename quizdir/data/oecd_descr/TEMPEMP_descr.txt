@@ -1,0 +1,2 @@
+Temporary employment includes wage and salary workers whose job has a pre-determined termination date. National definitions broadly conform to this generic definition, but may vary depending on national circumstances. This indicator is broken down by age group and it is measured as percentage of dependent employees (i.e. wage and salary workers).
+<br>Source: OECD (<a href='https://data.oecd.org/emp/temporary-employment.htm#indicator-chart' target='_blank'>https://data.oecd.org/emp/temporary-employment.htm#indicator-chart</a>)

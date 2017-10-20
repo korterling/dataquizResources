@@ -1,0 +1,2 @@
+Gross domestic spending on R&amp;D is defined as the total expenditure (current and capital) on R&amp;D carried out by all resident companies, research institutes, university and government laboratories, etc., in a country. It includes R&amp;D funded from abroad, but excludes domestic funds for R&amp;D performed outside the domestic economy. This indicator is measured in million USD and as percentage of GDP
+<br>Source: OECD (<a href='https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm' target='_blank'>https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm</a>)
